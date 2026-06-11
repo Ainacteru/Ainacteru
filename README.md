@@ -8,7 +8,7 @@ coding is hard
 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ainacteru&repo=usb-defmt&theme=tokyonight)](https://github.com/ainacteru/usb-defmt)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=baked-potato-industries&repo=tonk&theme=ayu-mirage)](https://github.com/ainacteru/usb-defmt)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=baked-potato-industries&repo=tonk&theme=tokyonight)](https://github.com/ainacteru/usb-defmt)
 
 </div>
 
