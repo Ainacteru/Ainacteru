@@ -1,3 +1,16 @@
+##
+<div align="center">
+
+  
+coding is hard 
+  
+![Ainacteru's GitHub stats](https://github-readme-stats.vercel.app/api?username=ainacteru&hide=stars&show_icons=true&theme=ayu-mirage)
+
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ainacteru&repo=usb-defmt&theme=ayu-mirage)](https://github.com/ainacteru/usb-defmt)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=baked-potato-industries&repo=tonk&theme=ayu-mirage)](https://github.com/ainacteru/usb-defmt)
+
+</div>
 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ainacteru&repo=go&theme=ayu-mirage)](https://github.com/ainacteru/go)
 
